@@ -9,7 +9,7 @@
 
  //QUESTION THREE (c)
 
- /* The values of x are 0, 1, 2,3, ...99*/
+ /* The values of x is 0, 1, 2, ...,99*/
 
  // QUESTION THREE (d)
 
